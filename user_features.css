@@ -1,0 +1,72 @@
+#S1{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 28px;
+}
+#N1{
+    background-color: blue;
+}
+#exampleModalLabel{
+    display: block;
+    margin: 0 auto;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#I1{
+    margin-top: 10px;
+}
+#B3{
+    display: block;
+    margin: 0 auto;
+    color: red;
+    background-color: white;
+    border: 0px;
+    width: 500px;
+    text-decoration: underline;
+}
+#B3:hover{
+    color: white;
+    background-color: #ea3838;
+    border: 1px solid white;
+}
+#B4{
+    display: block;
+    margin: 23px auto;
+    color: red;
+    background-color: white;
+    border: 0px;
+    width: 500px;
+    text-decoration: underline;
+}
+#B4:hover{
+    color: white;
+    background-color: #ea3838;
+    border: 1px solid white;
+}
+#B5{
+    display: block;
+    margin: 23px auto;
+    color: red;
+    background-color: white;
+    border: 0px;
+    width: 500px;
+    text-decoration: underline;
+}
+#B5:hover{
+    color: white;
+    background-color: #ea3838;
+    border: 1px solid white;
+}
+#M1{
+    background-color: red;
+    color: white;
+    border: 0px;
+    width: 50%;
+    margin: 20px auto;
+
+}
+.modal-header{
+    padding: 8px 16px;
+}
