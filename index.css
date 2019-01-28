@@ -56,3 +56,10 @@
 .modal-header{
     padding: 8px 16px;
 }
+
+@media (max-width: 519px) { 
+
+    #B1, #B2{
+        width: 79%;
+    }
+ }

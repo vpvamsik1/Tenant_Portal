@@ -1,0 +1,30 @@
+.modal-title-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#B7{
+    display: block;
+    margin: 0 auto;
+    color: red;
+    background-color: white;
+    border: 0px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 500;
+  
+}
+#B7:hover{
+    color: white;
+    background-color: #ea3838;
+    border: 1px solid white;
+}
+
+@media (max-width: 519px) { 
+
+    h3{
+        font-size: 20px;
+    }
+    #B7{
+        width: 100%;
+    }
+ }

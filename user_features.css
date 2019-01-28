@@ -12,6 +12,7 @@
     margin: 0 auto;
     text-decoration: underline;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 
 }
 #I1{
@@ -23,7 +24,7 @@
     color: red;
     background-color: white;
     border: 0px;
-    width: 500px;
+    width: 80%;
     text-decoration: underline;
 }
 #B3:hover{
@@ -37,7 +38,7 @@
     color: red;
     background-color: white;
     border: 0px;
-    width: 500px;
+    width: 80%;
     text-decoration: underline;
 }
 #B4:hover{
@@ -51,7 +52,7 @@
     color: red;
     background-color: white;
     border: 0px;
-    width: 500px;
+    width: 80%;
     text-decoration: underline;
 }
 #B5:hover{
@@ -70,3 +71,9 @@
 .modal-header{
     padding: 8px 16px;
 }
+
+span {
+    content: "\A";
+}
+
+
