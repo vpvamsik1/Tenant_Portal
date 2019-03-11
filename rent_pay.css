@@ -10,12 +10,16 @@
         #exampleModalLabel{
             display: block;
             /* margin: 0 auto; */
-            text-decoration: underline;
+            /* text-decoration: underline; */
             font-family: Arial, Helvetica, sans-serif;
 
         }
         #I1{
             margin-top: 10px;
+        }
+        .modal-header{
+            background-color: green;
+            color: white;
         }
         #B3{
             display: block;
@@ -62,21 +66,21 @@
         #B6{
             display: block;
             margin: 23px auto;
-            color: red;
+            color: green;
             background-color: white;
-            border: 0px;
+            border: 1px green solid;
             width: 50%;
-            text-decoration: underline;
+            /* text-decoration: underline; */
         }
         #B6:hover{
             color: white;
-            background-color: #ea3838;
+            background-color: #28A745;
             border: 1px solid white;
         }
         #M1{
-            background-color: red;
-            color: white;
-            border: 0px;
+            /* background-color: red; */
+            color: black;
+            border: 1px green solid;
             width: 50%;
             margin: 20px auto;
 
