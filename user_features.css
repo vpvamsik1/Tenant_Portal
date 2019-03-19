@@ -56,7 +56,7 @@ a:hover {
     background-color: white;
     border: 1px green solid;
     width: 80%;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 #B5:hover{
     color: white;
